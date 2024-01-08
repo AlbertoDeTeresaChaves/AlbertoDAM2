@@ -1,0 +1,10 @@
+.container{
+    background-color: gray;
+    margin: 20px auto;
+    width: 350px;
+    border-radius: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
