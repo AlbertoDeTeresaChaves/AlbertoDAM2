@@ -1,3 +1,4 @@
+/*Contenedor general del login*/
 .container{
     background-color: gray;
     margin: 20px auto;
@@ -9,10 +10,12 @@
     padding-top: 10px;
 }
 
+/*Contenedor del Form*/
 .container_form{
     margin-left: 40px;
 }
 
+/*Estilos del input text-password*/
 .texto{
     width: 250px;
     height: 20px;
@@ -21,6 +24,7 @@
     margin-bottom: 5px;
 }
 
+/*Estilos del submit*/
 .button_login{
     margin-top: 15px;
     width: 100px;
