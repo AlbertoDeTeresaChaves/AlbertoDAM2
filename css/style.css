@@ -8,3 +8,24 @@
     padding-bottom: 30px;
     padding-top: 10px;
 }
+
+.container_form{
+    margin-left: 40px;
+}
+
+.texto{
+    width: 250px;
+    height: 20px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.button_login{
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+    border-radius: 25px;
+    margin-left: 45%;
+    transform: translateX(-55%);
+}
