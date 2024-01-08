@@ -1,7 +1,7 @@
 /*Contenedor general del login*/
 .container{
     background-color: gray;
-    margin: 20px auto;
+    margin: 300px auto;
     width: 350px;
     border-radius: 25px;
     padding-left: 40px;
@@ -19,6 +19,18 @@
 body{
     background-image:url(/img/img_login.jpg);
     background-repeat: no-repeat;
+}
+
+/*Estilo del titulo*/
+h2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*Estilo del label*/
+label{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 /*Estilos del input text-password*/
