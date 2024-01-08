@@ -50,4 +50,14 @@ label{
     border-radius: 25px;
     margin-left: 45%;
     transform: translateX(-55%);
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.button_login:hover{
+    background-color: rgb(219, 86, 52);
+    cursor: pointer;
+    box-shadow: 0px 0px 50px 12px rgba(0,0,0,0.77);
+
 }
