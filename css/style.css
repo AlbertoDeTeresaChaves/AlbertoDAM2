@@ -15,6 +15,12 @@
     margin-left: 40px;
 }
 
+/*Imagen de fondo*/
+body{
+    background-image:url(/img/img_login.jpg);
+    background-repeat: no-repeat;
+}
+
 /*Estilos del input text-password*/
 .texto{
     width: 250px;
