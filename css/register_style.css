@@ -1,0 +1,67 @@
+/*Contenedor general del register*/
+.container{
+    background-color: gray;
+    margin: 300px auto;
+    width: 350px;
+    border-radius: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+/*Contenedor del Form*/
+.container_form{
+    margin-left: 40px;
+}
+
+/*Imagen de fondo*/
+body{
+    background-image:url(/img/img_login.jpg);
+    background-repeat: no-repeat;
+}
+
+/*Estilo del titulo*/
+h2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*Estilo del label*/
+label{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*Estilos del input text-email-password*/
+.texto{
+    width: 270px;
+    height: 20px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/*Estilos del submit*/
+.button_login{
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+    border-radius: 25px;
+    margin-left: 45%;
+    transform: translateX(-55%);
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.button_login:hover{
+    background-color: rgb(219, 86, 52);
+    cursor: pointer;
+    box-shadow: 0px 0px 50px 12px rgba(0,0,0,0.77);
+
+}
+
+.button_login:active{
+    background-color: rgba(161, 63, 39, 0.945);
+}
