@@ -17,7 +17,7 @@
 
 /*Imagen de fondo*/
 body{
-    background-image:url(/img/img_login.jpg);
+    background-image:url(../img/img_login.jpg);
     background-repeat: no-repeat;
 }
 
