@@ -35,7 +35,7 @@ label{
 
 /*Estilos del input text-password*/
 .texto{
-    width: 250px;
+    width: 270px;
     height: 20px;
     border-radius: 10px;
     margin-top: 5px;
@@ -48,8 +48,7 @@ label{
     width: 100px;
     height: 30px;
     border-radius: 25px;
-    margin-left: 45%;
-    transform: translateX(-55%);
+    margin-left: 25px;
     background-color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
@@ -60,4 +59,8 @@ label{
     cursor: pointer;
     box-shadow: 0px 0px 50px 12px rgba(0,0,0,0.77);
 
+}
+
+.button_login:active{
+    background-color: rgba(161, 63, 39, 0.945);
 }
