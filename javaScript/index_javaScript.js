@@ -10,8 +10,7 @@ function redirigir(action) {
         console.log('Haciendo login con ' + username + ' y ' + password);
         window.open('../AlbertoDAM2/home.html')
         }
-    }
-    
+    }    
     if(action === 'register') {
         window.open('../AlbertoDAM2/register.html')
     }
